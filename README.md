@@ -11,7 +11,15 @@
 <h5>Header 5</h5>
 <h6>Header 6</h6>
  
+In HTML it is better to call a tag when its needed and close it right after it is used or when it is no longer needed
 
+for underlining
+<h1><u>Chapter 1</u></h1>
+
+for italic and bold
+  <p><i><b>Once upon a time...</b></i>
+  </p>
+  
   
   
 </body>
